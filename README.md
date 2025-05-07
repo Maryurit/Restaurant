@@ -40,7 +40,7 @@ Restaurante/
 
 📦 Instalación
 Clona el repositorio:
-git clone https://github.com/tuusuario/Restaurant.git && cd Restaurant
+git clone (https://github.com/Maryurit/Restaurant) && cd Restaurant
 
 Crea y activa un entorno virtual:
 
